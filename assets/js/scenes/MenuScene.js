@@ -1,0 +1,3 @@
+class MenuScene extends Scene {
+    
+}
